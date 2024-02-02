@@ -4,7 +4,7 @@ Hacettepe Üniversitesi IEEE Game Jam 6. Sıralama
 
 ![qqq](https://github.com/Erces/GameJam-HacettepeUniversity/assets/51009171/9a26b1ff-32eb-4967-b989-0c54f1bd0aee)
 
-🕹️ **Playable Link:** [https://euzeru.itch.io/be-good-live-short](https://euzeru.itch.io/last-dream)
+🕹️ **Playable Link:** [itch io](https://euzeru.itch.io/last-dream)
 
 **Last Dream**
 Last Dream, savaş zamanında çocukluğunu yaşayamayan bir çocuktan bahsediyor.
